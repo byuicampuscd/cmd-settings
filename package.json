@@ -1,0 +1,11 @@
+{
+  "name": "cmd-settings",
+  "version": "1.0.0",
+  "description": "No description",
+  "main": "",
+  "scripts": {
+    "test": "NA"
+  },
+  "author": "Joshua McKinney",
+  "license": "MIT"
+}
